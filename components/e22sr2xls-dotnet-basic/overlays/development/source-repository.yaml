@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e22sr2xls-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/e22sr2xls-dotnet-basic
